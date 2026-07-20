@@ -31,13 +31,19 @@ I'm a Computer Science undergrad who loves turning repetitive, boring tasks into
 
 ---
 
-# 🚀 What I'm Building:
+# 🚀 What I'm Building & Shipping:
 
-| Project | What it is | Stack |
-| --- | --- | --- |
-| **Ghaaspaat Microgreens** | Condition-targeted microgreen blends on subscription — app + diet CMS | Automation, No-Code, Content |
-| **n8n Workflows** | Automations that connect apps and remove manual work | n8n, APIs, Webhooks |
-| **Chrome Extensions** | Small tools that automate everyday browser tasks | JavaScript, TypeScript |
+> From founder to CTO to freelance automation engineer — I don't just write code, I ship products that move real business metrics. 🚀
+
+| # | Project | My Role | What I Built & the Impact | Stack |
+| :---: | --- | --- | --- | --- |
+| 🌱 | **Ghaaspaat** | Founder | Automated the entire growing-to-delivery ops of a microgreens brand — order intake, subscriptions, and customer follow-ups run on **hands-off workflows**. | `n8n` `No-Code` `APIs` |
+| 💸 | **Finfit** | **CTO** | Led engineering as CTO — architected and shipped an **AI agent** plus a **Chrome extension** that automate personal-finance tasks end to end. | `AI Agents` `Chrome Ext` `TypeScript` |
+| 🥷 | **Skillninjas** | Developer | Built the full **website + web app** and wired in **3 production automations** that killed the team's manual, repetitive work. | `Next.js` `n8n` `APIs` |
+| 🛍️ | **Snitch** | Automation Engineer | Designed and **sold 2 automations** to the marketing department — turning manual campaign grunt-work into self-running pipelines. | `n8n` `Marketing Ops` `Webhooks` |
+| 🌸 | **Little Petals** | Developer | Built a **mobile app + custom CRM** for a school — the system lifted **admissions by 20%** through better lead capture and follow-up. | `Mobile` `CRM` `Automation` |
+
+<p align="center"><i>💥 5 products. 4 businesses. 1 mission — automate everything worth automating.</i></p>
 
 ---
 
