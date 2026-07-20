@@ -4,6 +4,16 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/EASE-Automation%20Company-22d3ee?style=for-the-badge&labelColor=05070d" />
+  <img src="https://img.shields.io/badge/218%2B-Deals%20Delivered-39ff88?style=for-the-badge&labelColor=05070d" />
+  <img src="https://img.shields.io/badge/National%20%26%20International-8b5cf6?style=for-the-badge&labelColor=05070d" />
+</p>
+
+<p align="center">
+  <a href="https://easeautomation.vercel.app"><img src="https://img.shields.io/badge/⚡%20Visit%20EASE-easeautomation.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Founder+of+EASE+%E2%80%94+Automation+Company;218%2B+deals+delivered+nationally+%26+globally;n8n+%7C+AI+Agents+%7C+Chrome+Extensions;Turning+workflows+into+income" alt="Typing SVG" />
 </p>
 
@@ -39,13 +49,14 @@ I'm a Computer Science undergrad and the **founder of EASE**, an automation comp
 
 | # | Project | My Role | What I Built & the Impact | Stack |
 | :---: | --- | --- | --- | --- |
-| 🌱 | **Ghaaspaat** | Founder | Automated the entire growing-to-delivery ops of a microgreens brand — order intake, subscriptions, and customer follow-ups run on **hands-off workflows**. | `n8n` `No-Code` `APIs` |
+| ⚡ | **EASE** | **Founder** | My automation company — delivered **218+ deals nationally & internationally**, building n8n workflows, AI agents, and Chrome extensions that run businesses on autopilot. | `n8n` `AI Agents` `Chrome Ext` |
 | 💸 | **Finfit** | **CTO** | Led engineering as CTO — architected and shipped an **AI agent** plus a **Chrome extension** that automate personal-finance tasks end to end. | `AI Agents` `Chrome Ext` `TypeScript` |
+| 🌱 | **Ghaaspaat** | Paid Intern | Automated the growing-to-delivery ops of a microgreens brand — order intake, subscriptions, and customer follow-ups on **hands-off workflows**. | `n8n` `No-Code` `APIs` |
 | 🥷 | **Skillninjas** | Developer | Built the full **website + web app** and wired in **3 production automations** that killed the team's manual, repetitive work. | `Next.js` `n8n` `APIs` |
 | 🛍️ | **Snitch** | Automation Engineer | Designed and **sold 2 automations** to the marketing department — turning manual campaign grunt-work into self-running pipelines. | `n8n` `Marketing Ops` `Webhooks` |
 | 🌸 | **Little Petals** | Developer | Built a **mobile app + custom CRM** for a school — the system lifted **admissions by 20%** through better lead capture and follow-up. | `Mobile` `CRM` `Automation` |
 
-<p align="center"><i>💥 5 products. 4 businesses. 1 mission — automate everything worth automating.</i></p>
+<p align="center"><i>💥 6 projects. 218+ deals shipped. 1 mission — automate everything worth automating.</i></p>
 
 ---
 
