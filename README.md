@@ -1,27 +1,29 @@
 <h1 align="center">Hi there, I'm Varij Singh 👋</h1>
-<h3 align="center">Aspiring Automation Engineer • CSE '3rd Year @ Chandigarh University • Founder @ Ghaaspaat</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Audiowide&size=40&duration=99999&pause=99999&color=36BCF7&center=true&vCenter=true&width=800&height=70&lines=AUTOMATION+ENGINEER" alt="Automation Engineer" />
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Automation+Engineer+in+the+making;n8n+%7C+Chrome+Extensions+%7C+No-Code;Founder+of+Ghaaspaat+Microgreens;Turning+workflows+into+income" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Founder+of+EASE+%E2%80%94+Automation+Company;218%2B+deals+delivered+nationally+%26+globally;n8n+%7C+AI+Agents+%7C+Chrome+Extensions;Turning+workflows+into+income" alt="Typing SVG" />
 </p>
 
 ---
 
 # 💫 About Me:
 
-I'm a Computer Science undergrad who loves turning repetitive, boring tasks into automated workflows that run themselves. I split my time between **building automations** and running **Ghaaspaat**, my nutrient-rich microgreens venture from Bihar — so I get to be both an engineer and a founder every day.
+I'm a Computer Science undergrad and the **founder of EASE**, an automation company that has delivered **218+ deals nationally and internationally**. I turn repetitive, manual work into automated systems that run themselves — for startups, businesses, and marketing teams across the globe.
 
 <br>
 
-🔭 &nbsp;**I'm currently working on** — building end-to-end automation workflows in **n8n** and shipping my first **Chrome extensions**<br>
-🚀 &nbsp;**My mission** — become a full-time automation engineer and build a ₹6–7L/month automation practice<br>
-👯 &nbsp;**I'm looking to collaborate on** — n8n automations, Chrome extensions, and small SaaS / automation side-projects<br>
-🤝 &nbsp;**I'm looking for help with** — scaling automations into paid client work and monetizing Chrome extensions<br>
-🌱 &nbsp;**I'm currently learning** — n8n workflow automation, Chrome extension development, and API integrations<br>
-🧠 &nbsp;**My edge** — I build, sell, and run a real product (Ghaaspaat), so I understand automation from the business side too<br>
-💬 &nbsp;**Ask me about** — automation, n8n, Chrome extensions, microgreens, and building a startup as a student<br>
+🔭 &nbsp;**I'm currently working on** — scaling **EASE**, my automation company (**218+ deals** delivered), with n8n, AI agents, and Chrome extensions<br>
+🚀 &nbsp;**My mission** — grow EASE into a global automation studio and cross ₹6–7L/month<br>
+👯 &nbsp;**I'm looking to collaborate on** — n8n automations, AI agents, Chrome extensions, and SaaS / automation projects<br>
+🤝 &nbsp;**I'm looking for help with** — scaling EASE's delivery, hiring, and building repeatable automation products<br>
+🌱 &nbsp;**I'm currently learning** — advanced n8n workflows, AI agent orchestration, and Chrome extension development<br>
+🧠 &nbsp;**My edge** — I run a real automation business, so I understand delivery, sales, and client outcomes — not just code<br>
+💬 &nbsp;**Ask me about** — automation, n8n, AI agents, Chrome extensions, and running an automation company as a student<br>
 📫 &nbsp;**How to reach me** — singh.variz19@gmail.com<br>
-⚡ &nbsp;**Fun fact** — I run a microgreens brand *and* an automation practice while studying computer science
+⚡ &nbsp;**Fun fact** — I closed **218+ automation deals** worldwide while still in my 3rd year of college
 
 ---
 
