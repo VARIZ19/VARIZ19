@@ -91,16 +91,32 @@ I'm a Computer Science undergrad and the **founder of EASE**, an automation comp
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=VARIZ19&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=VARIZ19&theme=tokyonight&hide_border=false" />
 </p>
+<details>
+<summary>🧩 Most Used Languages (may take a refresh to load)</summary>
 <p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VARIZ19&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VARIZ19&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </p>
+</details>
 
 ---
 
-### 🏆 GitHub Trophies
+### 🏆 Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VARIZ19&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" />
+  <img src="https://img.shields.io/badge/🏆%20Founder-EASE%20Automation-22d3ee?style=for-the-badge&labelColor=05070d" />
+  <img src="https://img.shields.io/badge/🚀%20218%2B-Deals%20Delivered-39ff88?style=for-the-badge&labelColor=05070d" />
+  <img src="https://img.shields.io/badge/🌍%20Global-National%20%26%20International-8b5cf6?style=for-the-badge&labelColor=05070d" />
 </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/⚡%20Ex--CTO-Finfit-f59e0b?style=for-the-badge&labelColor=05070d" />
+  <img src="https://img.shields.io/badge/📈%20%2B20%25-School%20Admissions%20(Little%20Petals)-ec4899?style=for-the-badge&labelColor=05070d" />
+</p>
+
+<details>
+<summary>🎮 Live GitHub trophies (may take a refresh to load)</summary>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=VARIZ19&theme=tokyonight&title=Commits,Repositories,Followers&column=3&row=1&no-frame=true&margin-w=12&margin-h=12" alt="GitHub Trophies" />
+</p>
+</details>
 
 ---
 
@@ -111,10 +127,12 @@ I'm a Computer Science undergrad and the **founder of EASE**, an automation comp
 
 ---
 
-### 🔝 Top Contributed Repo
+<details>
+<summary>🔝 Top Contributed Repos (may take a refresh to load)</summary>
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=VARIZ19&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=VARIZ19&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
 </p>
+</details>
 
 ---
 
