@@ -1,292 +1,149 @@
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                        VARIZZZ — PORTFOLIO README                       -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+ <h1 align="center">Hi there, I'm Varij Singh </h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Audiowide&size=40&duration=99999&pause=99999&color=36BCF7&center=true&vCenter=true&width=800&height=70&lines=AUTOMATION+ENGINEER" alt="Automation Engineer" />
+</p>
 
-<div align="center">
+<p align="center">
+  <img src="https://img.shields.io/badge/EASE-Automation%20Company-22d3ee?style=for-the-badge&labelColor=05070d" />
+  <img src="https://img.shields.io/badge/218%2B-Deals%20Delivered-39ff88?style=for-the-badge&labelColor=05070d" />
+  <img src="https://img.shields.io/badge/National%20%26%20International-8b5cf6?style=for-the-badge&labelColor=05070d" />
+</p>
 
-<!-- ──────────────── WORDMARK ──────────────── -->
-<img src="https://readme-typing-svg.demolab.com?font=Anton&size=92&duration=99999&pause=99999&color=FFFFFF&center=true&vCenter=true&width=900&height=120&lines=PORTFOLIO" alt="PORTFOLIO wordmark" />
+<p align="center">
+  <a href="https://easeautomation.vercel.app"><img src="https://img.shields.io/badge/⚡%20Visit%20EASE-easeautomation.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
 
-<!-- script accent over the wordmark — Caveat-style italic -->
-<img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=38&duration=99999&pause=99999&color=A855F7&center=true&vCenter=true&width=900&height=60&lines=Creative+%E2%9A%A1+Automation+Engineer" alt="Creative accent" />
-
-</div>
-
----
-
-<!-- ──────────────── PROFILE CARD ──────────────── -->
-<div align="center">
-
-<!-- avatar with purple glow simulation via border badge -->
-<a href="https://easeautomation.vercel.app">
-  <img src="https://github.com/VARIZ19.png" width="100" style="border-radius:24px" alt="Varij Singh" />
-</a>
-
-<h2>Varij Singh</h2>
-
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=18&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Automation+Engineer;Founder+of+EASE;I+build+workflows+%E2%80%A2+extensions+%E2%80%A2+AI+agents+%E2%80%A2+pipelines." alt="Morphing role" />
-
-<br/><br/>
-
-<!-- STATUS ROW -->
-<img src="https://img.shields.io/badge/%E2%97%8F%20Available%20for%20Work-00ff00?style=flat-square&labelColor=111010&color=111010&logoColor=00ff00" />
-&nbsp;
-<img src="https://img.shields.io/badge/📍-Chandigarh%2C%20India-27272a?style=flat-square&labelColor=111010" />
-&nbsp;
-<img src="https://img.shields.io/badge/✉-singh.variz19%40gmail.com-27272a?style=flat-square&labelColor=111010" />
-
-<br/><br/>
-
-<!-- CTA BUTTONS -->
-<a href="https://cal.com/variz19">
-  <img src="https://img.shields.io/badge/⚡%20Catch%20Up-Book%20a%20Meet-a855f7?style=for-the-badge&labelColor=111010" />
-</a>
-&nbsp;
-<a href="https://easeautomation.vercel.app">
-  <img src="https://img.shields.io/badge/🚀%20EASE-easeautomation.vercel.app-581c87?style=for-the-badge&labelColor=111010" />
-</a>
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Founder+of+EASE+%E2%80%94+Automation+Company;218%2B+deals+delivered+nationally+%26+globally;n8n+%7C+AI+Agents+%7C+Chrome+Extensions;Turning+workflows+into+income" alt="Typing SVG" />
+</p>
 
 ---
 
-<!-- ──────────────── SOCIALS ──────────────── -->
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-%23ffffff.svg?style=for-the-badge&logo=github&logoColor=black&color=111010)](https://github.com/VARIZ19)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/varij-singh)
-[![Instagram](https://img.shields.io/badge/Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/__variz_19)
-[![Facebook](https://img.shields.io/badge/Facebook-1877f2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/varij.singh)
-[![Gmail](https://img.shields.io/badge/Email-d14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:singh.variz19@gmail.com)
-
-</div>
-
----
-
-<!-- ══════════════════════════════════════════════════════════════════════ -->
-<!--                            ABOUT ME                                    -->
-<!-- ══════════════════════════════════════════════════════════════════════ -->
-
-## `{ }` ABOUT ME
-
-> *Why do it manually when you can script it?*
+# 💫 About Me:
 
 I'm a Computer Science undergrad and the **founder of EASE**, an automation company that has delivered **218+ deals nationally and internationally**. I turn repetitive, manual work into automated systems that run themselves — for startups, businesses, and marketing teams across the globe.
 
-| | |
-|---|---|
-| 🔭 **Currently Building** | Scaling **EASE** with n8n, AI agents & Chrome extensions — **218+ deals** delivered |
-| 🚀 **Mission** | Grow EASE into a global automation studio — cross ₹6–7L/month |
-| 👯 **Looking to Collaborate** | n8n automations, AI agents, Chrome extensions, SaaS / automation projects |
-| 🤝 **Looking for Help With** | Scaling EASE's delivery, hiring, and building repeatable automation products |
-| 🌱 **Currently Learning** | Advanced n8n workflows, AI agent orchestration, Chrome extension dev |
-| 🧠 **My Edge** | I run a real automation business — I understand delivery, sales & client outcomes |
-| 💬 **Ask Me About** | n8n, AI agents, Chrome extensions, running an automation company as a student |
-| ⚡ **Fun Fact** | Closed **218+ automation deals** worldwide while still in 3rd year of college |
+<br>
+
+🔭 &nbsp;**I'm currently working on** — scaling **EASE**, my automation company (**218+ deals** delivered), with n8n, AI agents, and Chrome extensions<br>
+🚀 &nbsp;**My mission** — grow EASE into a global automation studio and cross ₹6–7L/month<br>
+👯 &nbsp;**I'm looking to collaborate on** — n8n automations, AI agents, Chrome extensions, and SaaS / automation projects<br>
+🤝 &nbsp;**I'm looking for help with** — scaling EASE's delivery, hiring, and building repeatable automation products<br>
+🌱 &nbsp;**I'm currently learning** — advanced n8n workflows, AI agent orchestration, and Chrome extension development<br>
+🧠 &nbsp;**My edge** — I run a real automation business, so I understand delivery, sales, and client outcomes — not just code<br>
+💬 &nbsp;**Ask me about** — automation, n8n, AI agents, Chrome extensions, and running an automation company as a student<br>
+📫 &nbsp;**How to reach me** — singh.variz19@gmail.com<br>
+⚡ &nbsp;**Fun fact** — I closed **218+ automation deals** worldwide while still in my 3rd year of college
 
 ---
 
-<!-- ══════════════════════════════════════════════════════════════════════ -->
-<!--                         STATS BENTO                                    -->
-<!-- ══════════════════════════════════════════════════════════════════════ -->
+## 🌐 Socials:
 
-## 📊 GITHUB STATS
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=VARIZ19&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=111010&title_color=a855f7&icon_color=a855f7&text_color=e4e4e7&border_radius=16" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=VARIZ19&theme=tokyonight&hide_border=true&background=111010&ring=a855f7&fire=a855f7&currStreakLabel=a855f7&border_radius=16" />
-
-</div>
-
-<details>
-<summary><code>// Most Used Languages</code></summary>
-<br/>
-<div align="center">
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VARIZ19&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=111010&title_color=a855f7&text_color=e4e4e7&border_radius=16" alt="Top Languages" />
-</div>
-</details>
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/varij.singh) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__variz_19) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/varij-singh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:singh.variz19@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/VARIZ19)
 
 ---
 
-<!-- ══════════════════════════════════════════════════════════════════════ -->
-<!--                         PROJECTS SHOWCASE                              -->
-<!-- ══════════════════════════════════════════════════════════════════════ -->
+# 🚀 What I'm Building & Shipping:
 
-## `{ }` WHAT I'M BUILDING & SHIPPING
+> From founder to CTO to freelance automation engineer — I don't just write code, I ship products that move real business metrics. 🚀
 
-> *From founder to CTO to freelance automation engineer — I don't just write code, I ship products that move real business metrics.* 🚀
+| # | Project | My Role | What I Built & the Impact | Stack |
+| :---: | --- | --- | --- | --- |
+| ⚡ | **EASE** | **Founder** | My automation company — delivered **218+ deals nationally & internationally**, building n8n workflows, AI agents, and Chrome extensions that run businesses on autopilot. | `n8n` `AI Agents` `Chrome Ext` |
+| 💸 | **Finfit** | **CTO** | Led engineering as CTO — architected and shipped an **AI agent** plus a **Chrome extension** that automate personal-finance tasks end to end. | `AI Agents` `Chrome Ext` `TypeScript` |
+| 🌱 | **Ghaaspaat** | Paid Intern | Automated the growing-to-delivery ops of a microgreens brand — order intake, subscriptions, and customer follow-ups on **hands-off workflows**. | `n8n` `No-Code` `APIs` |
+| 🥷 | **Skillninjas** | Developer | Built the full **website + web app** and wired in **3 production automations** that killed the team's manual, repetitive work. | `Next.js` `n8n` `APIs` |
+| 🛍️ | **Snitch** | Automation Engineer | Designed and **sold 2 automations** to the marketing department — turning manual campaign grunt-work into self-running pipelines. | `n8n` `Marketing Ops` `Webhooks` |
+| 🌸 | **Little Petals** | Developer | Built a **mobile app + custom CRM** for a school — the system lifted **admissions by 20%** through better lead capture and follow-up. | `Mobile` `CRM` `Automation` |
 
-<div align="center">
-
-| | **Project** | **Role** | **What I Built & The Impact** | **Stack** |
-|:---:|---|---|---|---|
-| ⚡ | **EASE** | `Founder` | My automation company — **218+ deals** nationally & internationally. n8n workflows, AI agents, Chrome extensions that run businesses on autopilot. | `n8n` `AI Agents` `Chrome Ext` |
-| 💸 | **Finfit** | `CTO` | Led engineering — architected & shipped an **AI agent** + **Chrome extension** automating personal-finance tasks end to end. | `AI Agents` `Chrome Ext` `TypeScript` |
-| 🌱 | **Ghaaspaat** | `Paid Intern` | Automated growing-to-delivery ops of a microgreens brand — order intake, subscriptions & customer follow-ups on **hands-off workflows**. | `n8n` `No-Code` `APIs` |
-| 🥷 | **Skillninjas** | `Developer` | Built the full **website + web app** and wired in **3 production automations** that eliminated the team's manual, repetitive work. | `Next.js` `n8n` `APIs` |
-| 🛍️ | **Snitch** | `Automation Engineer` | Designed and **sold 2 automations** to the marketing department — turning manual campaign grunt-work into self-running pipelines. | `n8n` `Marketing Ops` `Webhooks` |
-| 🌸 | **Little Petals** | `Developer` | Built a **mobile app + custom CRM** for a school — lifted **admissions by 20%** through better lead capture and follow-up. | `Mobile` `CRM` `Automation` |
-
-</div>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/💥%206%20Projects-218%2B%20Deals%20Shipped-a855f7?style=for-the-badge&labelColor=111010" />
-&nbsp;
-<img src="https://img.shields.io/badge/1%20Mission-Automate%20Everything%20Worth%20Automating-581c87?style=for-the-badge&labelColor=111010" />
-
-</div>
+<p align="center"><i>💥 6 projects. 218+ deals shipped. 1 mission — automate everything worth automating.</i></p>
 
 ---
 
-<!-- ══════════════════════════════════════════════════════════════════════ -->
-<!--                           TECH STACK                                   -->
-<!-- ══════════════════════════════════════════════════════════════════════ -->
-
-## `{ }` TECH STACK
+# 💻 Tech Stack:
 
 ### 🤖 Automation & No-Code
-
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
-![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=flat-square&logo=puppeteer&logoColor=white)
-![Chrome Extension](https://img.shields.io/badge/Chrome%20Ext-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
-![Home Assistant](https://img.shields.io/badge/Home%20Assistant-41BDF5?style=flat-square&logo=home-assistant&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-%23EA4B71.svg?style=for-the-badge&logo=n8n&logoColor=white) ![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white) ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white)
 
 ### 🧑‍💻 Languages
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F54A2A?style=flat-square&logo=swift&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 
 ### ⚙️ Frameworks & Runtimes
-
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink?style=flat-square&logo=SASS&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-black?style=flat-square&logo=three.js&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 
 ### 🗄️ Databases & Cloud
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405e?style=flat-square&logo=sqlite&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 ### 📊 Data & AI
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ### 🎨 Design
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=Canva&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer-black?style=flat-square&logo=framer&logoColor=blue)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
-![Adobe CC](https://img.shields.io/badge/Adobe%20CC-DA1F26?style=flat-square&logo=adobecreativecloud&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white)
 
 ### 🛠️ Dev Tools
-
-![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=flat-square&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GH%20Actions-2671E5?style=flat-square&logo=githubactions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=flat-square&logo=windows-terminal&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 
 ---
 
-<!-- ══════════════════════════════════════════════════════════════════════ -->
-<!--                        ACHIEVEMENTS                                    -->
-<!-- ══════════════════════════════════════════════════════════════════════ -->
+# 📊 GitHub Stats:
 
-## 🏆 ACHIEVEMENTS
-
-<div align="center">
-
-| Badge | Achievement |
-|---|---|
-| 🏆 **Founder** | EASE Automation Company |
-| 🚀 **218+** | Deals delivered nationally & internationally |
-| 🌍 **Global** | Clients in India and abroad |
-| ⚡ **Ex-CTO** | Finfit — AI agent + Chrome extension |
-| 📈 **+20%** | School admissions lifted (Little Petals CRM) |
-| 🎓 **Student** | 3rd year CS undergrad — building while learning |
-
-</div>
-
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=VARIZ19&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=VARIZ19&theme=tokyonight&hide_border=false" />
+</p>
 <details>
-<summary><code>// GitHub Trophies</code></summary>
-<br/>
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=VARIZ19&theme=tokyonight&title=Commits,Repositories,Followers&column=3&row=1&no-frame=true&margin-w=12&margin-h=12" alt="GitHub Trophies" />
-</div>
+<summary>🧩 Most Used Languages (may take a refresh to load)</summary>
+<p align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VARIZ19&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+</p>
 </details>
 
 ---
 
-<!-- ══════════════════════════════════════════════════════════════════════ -->
-<!--                     CONTRIBUTION GRAPH                                 -->
-<!-- ══════════════════════════════════════════════════════════════════════ -->
+### 🏆 Achievements
+<p align="center">
+  <img src="https://img.shields.io/badge/🏆%20Founder-EASE%20Automation-22d3ee?style=for-the-badge&labelColor=05070d" />
+  <img src="https://img.shields.io/badge/🚀%20218%2B-Deals%20Delivered-39ff88?style=for-the-badge&labelColor=05070d" />
+  <img src="https://img.shields.io/badge/🌍%20Global-National%20%26%20International-8b5cf6?style=for-the-badge&labelColor=05070d" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/⚡%20Ex--CTO-Finfit-f59e0b?style=for-the-badge&labelColor=05070d" />
+  <img src="https://img.shields.io/badge/📈%20%2B20%25-School%20Admissions%20(Little%20Petals)-ec4899?style=for-the-badge&labelColor=05070d" />
+</p>
 
 <details>
-<summary><code>// GitHub Contribution Calendar</code></summary>
-<br/>
-<div align="center">
-<img src="https://ghchart.rshah.org/a855f7/VARIZ19" alt="GitHub Contribution Calendar" width="100%"/>
-</div>
-</details>
-
-<details>
-<summary><code>// Top Contributed Repos</code></summary>
-<br/>
-<div align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=VARIZ19&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
-</div>
+<summary>🎮 Live GitHub trophies (may take a refresh to load)</summary>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=VARIZ19&theme=tokyonight&title=Commits,Repositories,Followers&column=3&row=1&no-frame=true&margin-w=12&margin-h=12" alt="GitHub Trophies" />
+</p>
 </details>
 
 ---
 
-<!-- ══════════════════════════════════════════════════════════════════════ -->
-<!--                          QUOTE                                         -->
-<!-- ══════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
-
-</div>
+### ✍️ Random Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
 
 ---
 
-<!-- ══════════════════════════════════════════════════════════════════════ -->
-<!--                          FOOTER                                        -->
-<!-- ══════════════════════════════════════════════════════════════════════ -->
+<details>
+<summary>🔝 Top Contributed Repos (may take a refresh to load)</summary>
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=VARIZ19&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
+</p>
+</details>
 
-<div align="center">
+---
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=14&pause=1000&color=71717A&center=true&vCenter=true&width=600&lines=Built+with+n8n+%26+caffeine+%E2%98%95;Why+do+it+manually+when+you+can+script+it%3F" alt="Footer quote" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=VARIZ19&style=for-the-badge&color=36BCF7" alt="Profile views" />
+</p>
 
-<br/>
+<!-- Enhanced from a GPRM base ( https://gprm.itsvg.in ) -->
 
-<img src="https://komarev.com/ghpvc/?username=VARIZ19&style=flat-square&color=a855f7&label=profile+views" alt="Profile views" />
 
-</div>
 
-<!-- Built by Variz — easeautomation.vercel.app -->
+
+
+
